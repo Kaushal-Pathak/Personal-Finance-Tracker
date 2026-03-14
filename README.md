@@ -119,6 +119,6 @@ fintrack/
 
 <div align="center">
 
-MIT License · Made with Python · No dependencies
+ Made with Python · No dependencies
 
 </div>
